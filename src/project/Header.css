@@ -1,0 +1,27 @@
+.header-buttons{
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  list-style: none;
+}
+.header{
+  background-color: #f85555;
+  height: 50px;
+  display: grid;
+  grid-template-columns: 4fr 4fr 1fr;
+  color: white;
+}
+.logo{
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  align-items: center;
+  padding-left: 10px;
+}
+.logo-img{
+  padding-right: 10px;
+}
+.Shop-Button{
+  background-color: #f85555;
+  border: none;
+}

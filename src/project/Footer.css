@@ -1,0 +1,38 @@
+.footer {
+  background-color: #242323;
+  padding: 20px;
+  text-align: center;
+  color: #ffffff;
+}
+.footer-body{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  height: 100%;
+  font-size: 14px;
+}
+
+.footer__head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.footer__logo {
+  width: 100px;
+}
+
+.footer__social-icons {
+  display: flex;
+  gap: 15px;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer__social-icons li a {
+  color: #ffffff;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
