@@ -6,22 +6,20 @@ import { FaShoppingCart } from "react-icons/fa";
 function Header() {
   return (
     <>
-      <div className="header">
+      <nav className="header">
         <div className="logo">
-          <img className="logo-img" src={logo} alt="Logo" width={40} height={40} />
           <p>A C M E</p>
         </div>
-        <ul className="header-buttons">
-          <li>Home</li>
-          <li>About</li>
-          <li>Products</li>
-          <li>Contact</li>
-          <li>SignUp</li>
-        </ul>
-        <button className="Shop-Button">
-          <FaShoppingCart size={30} />
-        </button>
-      </div>
+          <ul className="header-buttons">
+            <button>Home</button>
+            <button>About</button>
+            <button>SignUp</button>
+            <button>Help</button>
+            <button className="Shop-Button">
+              <FaShoppingCart/>
+            </button>
+          </ul>
+      </nav>
     </>
   );
 }
