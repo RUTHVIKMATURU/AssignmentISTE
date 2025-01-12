@@ -4,11 +4,7 @@ This project is an Electronics Shopping Website built entirely with React for th
 
 Key Features:
 
-•	Product Catalog: Display a list of electronics with product images, descriptions, and prices.
-
-•	Dynamic Shopping Cart: Add and remove items, with a live update of the total cost.
-
-•	Search and Filter: Quickly find products using search functionality or by applying filters like categories and price ranges.
+•	Product Catalog: Display a list of Watches, Laptops with product images, descriptions, and prices.
 
 •	Responsive Design: Optimized for desktops, tablets, and mobile devices, ensuring a smooth user experience across all screen sizes.
 
