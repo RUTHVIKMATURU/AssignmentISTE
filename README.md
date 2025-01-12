@@ -17,7 +17,9 @@ Key Features:
 Purpose:
 
 This project demonstrates the power of React for building interactive, single-page applications (SPAs). It serves as a template for creating user-friendly e-commerce platforms.
+
 Technologies Used:
+
 •	React: Component-based library for building the UI.
 
 •	CSS: Styling for a visually appealing design.
