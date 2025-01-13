@@ -42,8 +42,6 @@
   color: #f85555;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
 }
-
-/* Shop Button Styling */
 .Shop-Button {
   background-color: #f85555;
   border: none;
@@ -62,7 +60,6 @@
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
 }
 
-/* Responsive Styling */
 @media (max-width: 768px) {
   .header {
     flex-direction: column;
